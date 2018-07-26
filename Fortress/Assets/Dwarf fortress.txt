@@ -1,0 +1,62 @@
+Dwarf fortress:
+
+	* Types of Jobs
+		* Harvesting : gather and retrieve resources
+		* Building : make new structures
+		* Crafting : make new Items
+		* Fighting : Combat
+		* Research : discover new technology
+		* Farming : Grow crops and raise livestock
+
+	* Subskills:
+		* Harvesting:
+			* Hauling: speed of moving goods
+			* Woodcutting: cut wood
+			* Foraging : finding useful items from wild plants
+			* Mining: getting ore and stone
+		* Building
+			* Architecture: Building houses and other large buildings
+
+Tasks:
+
+Building:
+	* add buildings when construction is done
+
+UI:
+	* Create job
+		* Make a new jobs for the dwarves to do
+
+	* Dwarf Roster
+		* Outline dwarves in a list, show basic info
+		* Inspect individual dwarves 
+			* Assign occupation
+			* See skills
+
+	* Camera: 
+		* perspective camera camera
+			* pan
+			* zoom
+			* rotate
+			* focus
+
+Stock piles:
+	* add capacity
+	* add method or object that will pick the appropriate stockpile for a dwarf to deposit at
+		* manager will pick a stockpile based on distance, capacity, and type of stockpile 
+
+Code Improvements:
+
+* Make task an object instead of a string
+
+Other stuff:
+
+* Make github
+* make an office
+* move this doc to a word processor dummy
+
+
+
+
+
+
+
